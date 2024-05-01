@@ -3,3 +3,4 @@ red apples
 green apples
 ripe apples
 stale apples
+yellow apples
